@@ -1,0 +1,24 @@
+{
+  "name": "06-ciccc-lecture-html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kazi983/ciccc-lecture-html.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kazi983/ciccc-lecture-html/issues"
+  },
+  "homepage": "https://github.com/kazi983/ciccc-lecture-html#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
